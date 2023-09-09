@@ -1,5 +1,5 @@
 # Hi there! 👋
-Hey there! I am Jovan from Singapore and I am a CS student who is passionate in NLP/ML and SWE. I have trained and implemented a variety of Deep Learning models/LLMs for a wide range of applciations from medtech to chatbot technology. Currently, I am diving more into RLHF on open-source LLMs and App & Web development using Swift and React.
+Hey there! I am Jovan, a CS junior from Singapore, and my interests includes NLP/ML and SWE. I have trained and implemented a variety of Deep Learning models/LLMs for a wide range of applciations from medtech to chatbot technology. Currently, I am diving more into RLHF on open-source LLMs and App & Web development using Swift and React.
 
 ### Experiences and Achievements
 - Intel ISEF'19 3rd Award
