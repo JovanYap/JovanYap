@@ -27,9 +27,10 @@ Hey there! I am Jovan from Singapore and I am a CS student who is passionate in 
 - NUSTimetable
 - Personal website
 - Apple app
-- Finetune an opensource LLM with RLHF to create a chatbot:
-  - Huggingface 
+- Finetuning an opensource LLM with RLHF to create a chatbot:
+  - [Click here to use models trained by me](https://huggingface.co/TheTravellingEngineer)
   - Models: PaLM2, Llama2, Mpt, Stable-vicuna
+- Online chatbot 
 - Many other projects
 
 <!-- ### Find me at...
