@@ -3,9 +3,9 @@ Hey there! I am Jovan, a CS junior from Singapore, and my interests includes NLP
 
 ### Experiences and Achievements
 - Intel ISEF'19 3rd Award
-- NLP & SWE Intern at Land Transport Authority (2023) 
-- ML & Computer Vision Intern at Medios (2022-2023)
-- SWE & Game Development Intern at UMich-SJTU (2022)
+- NLP Engineer & Data Scientist at Land Transport Authority (2023) 
+- AI and Computer Vision Engineer at Medios (2022-2023)
+- SWE at UMich-SJTU (2022)
 
 ### Technologies & Tools
 <div style="display: flex">
