@@ -24,13 +24,13 @@ Hey there! I am Jovan, a CS junior from Singapore, and my interests includes NLP
 <hr>
 
 ### Currently Working On...
-- NUSTimetable
-- Personal website
+- Personal portfolio website
+- Brain Tumor Segmentation using 3D U-Net on MRI
+- Open source projects
 - Apple app
 - Finetuning an opensource LLM with RLHF to create a chatbot:
   - [Click here to use models trained by me](https://huggingface.co/TheTravellingEngineer)
   - Models: PaLM2, Llama2, Mpt, Stable-vicuna
-- Online chatbot 
 - Many other projects
 
 <!-- ### Find me at...
