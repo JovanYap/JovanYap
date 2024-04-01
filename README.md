@@ -25,7 +25,8 @@ Hey there! I am Jovan, a CS junior from the University of Michigan Ann Arbor, an
 <hr>
 
 ### Currently Working On...
-- Personal portfolio website
+- JdeRobot/RoboticsAcademy issues and bugs fixes
+- Peronal portfolio website
 - Brain Tumor Segmentation using 3D U-Net on MRI
 - Open source projects
 - Apple app
