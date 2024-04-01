@@ -2,7 +2,7 @@
 Hey there! I am Jovan, a CS junior from Singapore, and my interests includes NLP/ML and SWE. I have trained and implemented a variety of Deep Learning models/LLMs for a wide range of applciations from medtech to chatbot technology. Currently, I am diving more into RLHF on open-source LLMs and App & Web development using Swift and React.
 
 ### Experiences and Achievements
-- AI SWE at GovTech (2024)
+- AI Software Engineer at GovTech (2024)
 - NLP Engineer & Data Scientist at Land Transport Authority (2023) 
 - AI and Computer Vision Engineer at Medios (2022-2023)
 - SWE at UMich-SJTU (2022)
