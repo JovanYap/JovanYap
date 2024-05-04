@@ -13,13 +13,13 @@ Hey there! I am Jovan, a CS junior from the University of Michigan Ann Arbor, an
   <img src="https://img.shields.io/badge/-Python-red"/>
   <img src="https://img.shields.io/badge/-Swift-orange"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-yellow" />
-  <img alt="HTML/CSS/Bootstrap" src="https://img.shields.io/badge/-HTML%2FCSS-yellowgreen" />
-  <img alt="REST API" src="https://img.shields.io/badge/-Git-green" />
-  <img alt="ReactJS/VueJS" src="https://img.shields.io/badge/-ReactJS-green" />
+  <img alt="HTML/CSS/Bootstrap" src="https://img.shields.io/badge/-HTML%2FCSS/Bootstrap-yellowgreen" />
+  <img alt="REST API" src="https://img.shields.io/badge/-REST API-green" />
+  <img alt="ReactJS/VueJS" src="https://img.shields.io/badge/-ReactJS/VueJS-green" />
   <img alt="Huggingface" src="https://img.shields.io/badge/-Huggingface-61b083" />
   <img alt="AWS/AzureML" src="https://img.shields.io/badge/-AWS/AzureML-4ca158" />
   <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-3e8bc3" />
-  <img alt="SQL" src="https://img.shields.io/badge/-Tensorflow-3e8bc3" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-3e8bc3" />
   <img alt="C/C++" src="https://img.shields.io/badge/-C/C++-8c5aee" />
 </div>
 <hr>
