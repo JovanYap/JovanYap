@@ -25,9 +25,8 @@ Hey there! I am Jovan, a CS junior from the University of Michigan Ann Arbor, an
 <hr>
 
 ### Currently Working On...
-- JdeRobot/RoboticsAcademy issues and bugs fixes
+- Video Analytics
 - Peronal portfolio website
-- Brain Tumor Segmentation using 3D U-Net on MRI
 - Open source projects
 - Apple app
 - Finetuning an opensource LLM with RLHF to create a chatbot:
