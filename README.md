@@ -3,8 +3,9 @@ Hey there! I am Jovan, a CS junior from the University of Michigan Ann Arbor, an
 
 ### Experiences and Achievements
 - AI Software Engineer at GovTech (2024)
+- Computer Vision Engineer at University of Michigan Autonomous Robotics Club (2024)
 - NLP Engineer & Data Scientist at Land Transport Authority (2023) 
-- AI and Computer Vision Engineer at Medios (2022-2023)
+- Machine Learning Engineer at Medios (2022-2023)
 - SWE at UMich-SJTU (2022)
 - Intel ISEF'19 3rd Award
 
