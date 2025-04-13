@@ -1,5 +1,5 @@
 # Hi there! 👋
-Hey there! I am Jovan, a CS masters student from UC Berkeley, and my interests includes Computer Vision and distributed ML stystems. I have trained and implemented a variety of Deep Learning models/LLMs for a wide range of applciations from medtech to chatbot technology. 
+Hey there! I am Jovan, a CS masters student from UC Berkeley, and my interests includes Computer Vision, Agentic AI and distributed ML stystems. I have trained and implemented a variety of Deep Learning models/LLMs for a wide range of applciations from medtech to chatbot technology. Furthermore, I specialize in creating large scale agentic AI systems for fraud dection and media indexing & management. 
 
 ### Experiences and Achievements
 - ML Engineer at Bytedance (2025)
@@ -28,7 +28,8 @@ Hey there! I am Jovan, a CS masters student from UC Berkeley, and my interests i
 ### Currently Working On...
 - Facial recognition applications
 - Scams and fraud detection
-- Video Analytics
+- Image and video indexing systems 
+- Agentic AI systems
 - Finetuning an opensource LLM with RLHF to create a chatbot:
   - [Click here to use models trained by me](https://huggingface.co/TheTravellingEngineer)
   - Models: PaLM2, Llama2, Mpt, Stable-vicuna
