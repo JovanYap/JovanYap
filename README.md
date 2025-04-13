@@ -1,23 +1,23 @@
 # Hi there! 👋
-Hey there! I am Jovan, a CS junior from the University of Michigan Ann Arbor, and my interests includes NLP/ML and SWE. I have trained and implemented a variety of Deep Learning models/LLMs for a wide range of applciations from medtech to chatbot technology. Currently, I am diving more into RLHF on open-source LLMs and App & Web development using Swift and React.
+Hey there! I am Jovan, a CS masters student from UC Berkeley, and my interests includes Computer Vision and distributed ML stystems. I have trained and implemented a variety of Deep Learning models/LLMs for a wide range of applciations from medtech to chatbot technology. 
 
 ### Experiences and Achievements
+- ML Engineer at Bytedance (2025)
 - AI Software Engineer at GovTech (2024)
 - Computer Vision Engineer at University of Michigan Autonomous Robotics Club (2024)
-- NLP Engineer & Data Scientist at Land Transport Authority (2023) 
+- Data Scientist at Land Transport Authority (2023) 
 - Machine Learning Engineer at Medios (2022-2023)
-- SWE at UMich-SJTU (2022)
 - Intel ISEF'19 3rd Award
 
 ### Technologies & Tools
 <div style="display: flex">
   <img src="https://img.shields.io/badge/-Python-red"/>
-  <img src="https://img.shields.io/badge/-Swift-orange"/>
+  <img src="https://img.shields.io/badge/-Tensorflow-orange"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-yellow" />
   <img alt="HTML/CSS/Bootstrap" src="https://img.shields.io/badge/-HTML%2FCSS/Bootstrap-yellowgreen" />
   <img alt="REST API" src="https://img.shields.io/badge/-REST API-green" />
   <img alt="ReactJS/VueJS" src="https://img.shields.io/badge/-ReactJS/VueJS-green" />
-  <img alt="Huggingface" src="https://img.shields.io/badge/-Huggingface-61b083" />
+  <img alt="Huggingface" src="https://img.shields.io/badge/-Typescript-61b083" />
   <img alt="AWS/AzureML" src="https://img.shields.io/badge/-AWS/AzureML-4ca158" />
   <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-3e8bc3" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-3e8bc3" />
@@ -26,10 +26,9 @@ Hey there! I am Jovan, a CS junior from the University of Michigan Ann Arbor, an
 <hr>
 
 ### Currently Working On...
+- Facial recognition applications
+- Scams and fraud detection
 - Video Analytics
-- Peronal portfolio website
-- Open source projects
-- Apple app
 - Finetuning an opensource LLM with RLHF to create a chatbot:
   - [Click here to use models trained by me](https://huggingface.co/TheTravellingEngineer)
   - Models: PaLM2, Llama2, Mpt, Stable-vicuna
